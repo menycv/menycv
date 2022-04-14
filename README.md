@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @menycv
 - 👀 I’m interested in embedded C programming and python. 
 - 🌱 I’m currently learning embedded C and C# for HMI
-- 💞️ I’m looking to collaborate on quadcopters fly controllers
+- 💞️ I’m looking to collaborate on quadcopters flight controllers
 - 📫 How to reach me https://www.linkedin.com/in/manuel-calzadillas/
 
 <!---
